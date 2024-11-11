@@ -1,4 +1,4 @@
-![alt_text](https://github.r2v.ch/codewars?user=Stefanut99009)(Link)
+![alt_text](https://github.r2v.ch/codewars?user=Stefanut99009)
 
 # Hello, I'm Pazargic Ștefănuț👋
 
