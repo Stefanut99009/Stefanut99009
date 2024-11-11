@@ -1,1 +1,1 @@
-![Codewars](https://www.codewars.com/users/Stefanut99009/badges/large)
+[![Codewars](https://github.r2v.ch/codewars?user=Stefanut99009)](LINK)
